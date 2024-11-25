@@ -1,0 +1,26 @@
+{
+    "name": "Untitled",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Anomaly Disk 02": "pkg:Anomaly Disk 02.json"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "Anomaly Disk 02.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.57",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
